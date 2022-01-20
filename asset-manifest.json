@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6c72e75c.chunk.js",
+    "main.js.map": "/static/js/main.6c72e75c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.12bb3f0f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.12bb3f0f.js.map",
+    "static/js/2.1e531cc7.chunk.js": "/static/js/2.1e531cc7.chunk.js",
+    "static/js/2.1e531cc7.chunk.js.map": "/static/js/2.1e531cc7.chunk.js.map",
+    "static/js/3.b5e1b989.chunk.js": "/static/js/3.b5e1b989.chunk.js",
+    "static/js/3.b5e1b989.chunk.js.map": "/static/js/3.b5e1b989.chunk.js.map",
+    "static/js/4.5c7e58a9.chunk.js": "/static/js/4.5c7e58a9.chunk.js",
+    "static/js/4.5c7e58a9.chunk.js.map": "/static/js/4.5c7e58a9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.1e531cc7.chunk.js.LICENSE.txt": "/static/js/2.1e531cc7.chunk.js.LICENSE.txt",
+    "static/js/3.b5e1b989.chunk.js.LICENSE.txt": "/static/js/3.b5e1b989.chunk.js.LICENSE.txt",
+    "static/media/bunnybutt.749e676a.svg": "/static/media/bunnybutt.749e676a.svg",
+    "static/media/bunnyhead-main.ce5d4f5c.svg": "/static/media/bunnyhead-main.ce5d4f5c.svg",
+    "static/media/bunnyhead-max.be6edb2a.svg": "/static/media/bunnyhead-max.be6edb2a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12bb3f0f.js",
+    "static/js/3.b5e1b989.chunk.js",
+    "static/js/main.6c72e75c.chunk.js"
+  ]
+}
